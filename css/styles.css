@@ -271,7 +271,7 @@ img {
     .card {
         padding: 4rem;
         flex-direction: column;
-        align-items: center; /* Centrar las tarjetas horizontalmente */
+        align-items: center; 
     }
 
     .card__body,
@@ -316,7 +316,7 @@ img {
     }
 
     .card {
-        padding: 2rem; /* Reducir el padding para pantallas más pequeñas */
+        padding: 2rem; 
     }
 
     
